@@ -41,5 +41,5 @@ loaded via a namespace (and not attached):
 [56] hms_0.5.3         crosstalk_1.1.0.1 fastmap_1.0.1     yaml_2.2.1        colorspace_1.4-1  rvest_0.3.6       haven_2.3.1        
   
 ##### Author and contact  
-[Dr. Carlos Correa Shokiche] (https://www.linkedin.com/in/dr-carlos-correa-shokiche-72b10024)  
+[Dr. Carlos Correa Shokiche](https://www.linkedin.com/in/dr-carlos-correa-shokiche-72b10024)  
 [Marius Botos](https://twitter.com/MariusBotos)  
