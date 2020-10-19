@@ -11,7 +11,7 @@ The idea is to create an interactive Shiny app for uploading your own documents 
 
 For this, run the app in local computer or access through RServer.
 
-More is comming.
+More is comming ahead...
 
 ##### Author and contact
 
