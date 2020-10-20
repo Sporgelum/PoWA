@@ -44,3 +44,4 @@ loaded via a namespace (and not attached):
 [Dr. Carlos Correa Shokiche](https://www.linkedin.com/in/dr-carlos-correa-shokiche-72b10024)  
 [Marius Botos](https://twitter.com/MariusBotos)  
 ![alt text](Z:\Gits/PoWA/www/LOGOnadia.png)
+![GitHub Logo](Z:\Gits/PoWA/www/LOGOnadia.png)
